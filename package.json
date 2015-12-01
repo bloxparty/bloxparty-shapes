@@ -1,0 +1,19 @@
+{
+  "name": "bloxparty-shapes",
+  "version": "1.0.0",
+  "description": "Collection of shapes used in the Blox Party game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kevin Neff",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bloxparty/bloxparty-shapes.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bloxparty/bloxparty-shapes/issues"
+  },
+  "homepage": "https://github.com/bloxparty/bloxparty-shapes#readme"
+}
